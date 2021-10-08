@@ -1,0 +1,4 @@
+modularizar componentes
+-comp p/ cards con estilos(sombras, color, padding)
+-debe tener prop_children para meter contenido(info)
+
