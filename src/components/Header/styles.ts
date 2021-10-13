@@ -2,15 +2,14 @@ import styled from "styled-components";
 import { LinkRowContainer } from "components/GlobalStyles";
 
 export const NavbarContainer = styled(LinkRowContainer)`
-  /* height: 10vh; */
   height: 90px;
+
+  li {
+    cursor: pointer;
+  }
 
   i {
     font-size: 1.5rem;
-  }
-
-  .nav-item {
-    padding: 0.5rem;
   }
 
   @media (max-width: 768px) {
@@ -45,7 +44,7 @@ export const MobileNavbarContainer = styled.div`
       z-index: 90;
     }
 
-    .option {
+    .options p {
       background-color: ${({ theme }) => theme.secondary_bg_color} !important;
       padding: 0.5rem;
       width: 100vw;

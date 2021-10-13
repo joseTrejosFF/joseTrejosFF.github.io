@@ -1,4 +1,7 @@
 import tmpImg from "assets/images/tmp/example-portfolio-screenshot2.jpg";
+import mobilehomeDarkModeMenu from "assets/images/resume/mobilehomeDarkModeMenu.png";
+import reactIcon from "assets/images/resume/reactIcon.svg";
+import darkThemeHook from "assets/images/resume/darkThemeHook.png";
 
 export const webResumeInfo = {
   projectTitle: "Web Resume",
@@ -7,14 +10,10 @@ export const webResumeInfo = {
       "Why did I take the time to design and code a whole web from scratch just to present myself to people instead of using one of the many social media websites that are already available on the internet? I could write a nice simple answer with some technical jargon to answer this question, but I think there is a better way. Let me show you what I mean.",
     ],
     figure: {
-      img: tmpImg,
-      alt: "",
-      title: "",
-      caption: (
-        <a href="https://www.tmp" target="_blank" rel="noreferrer" title="">
-          tmp
-        </a>
-      ),
+      img: mobilehomeDarkModeMenu,
+      alt: "Navigation menu on a mobile-version in dark mode",
+      title: "Navigation menu on a mobile-version in dark mode",
+      caption: "Navigation menu on a mobile-version in dark mode",
     },
   },
   projectPurpose: {
@@ -32,12 +31,21 @@ export const webResumeInfo = {
       "Along the way I have found really good tools that make working with react even better like Style-Components.  CSS is beautiful and if you combine it with JS in a component base fashion you'll get the most beautiful and reusable CSS ever.",
       "A good looking application is key, and to achieved this is an efficient way I picked Styled components also I am planning to add more projects, so I know this repository could grow even more and maintainability could be a problem in the long run, that is why I choose to use typescript.",
     ],
-    tools: [],
+    tools: ["React as the client-side", "AWS as the web-hosting"],
     figure: {
-      img: tmpImg,
-      alt: "",
-      title: "",
-      caption: "",
+      img: reactIcon,
+      alt: "React logo",
+      title: "React logo",
+      caption: (
+        <a
+          title="Facebook, Public domain, via Wikimedia Commons"
+          href="https://commons.wikimedia.org/wiki/File:React-icon.svg"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Wikimedia Commons - React Logo
+        </a>
+      ),
     },
   },
   ChallengesAndDif: {
@@ -48,14 +56,10 @@ export const webResumeInfo = {
       "Achieving a responsive web design is hard, but not impossible. I had to spend a good time looking for wired looking sections on different screen sizes. Nowadays a mobile version is not a plus, it's a must have.",
     ],
     figure: {
-      img: tmpImg,
-      alt: "",
-      title: "",
-      caption: (
-        <a href="https://www.tmp" target="_blank" rel="noreferrer" title="">
-          tmp
-        </a>
-      ),
+      img: darkThemeHook,
+      alt: "Custom react-hook code for managing the Dark-theme",
+      title: "Custom react-hook code for managing the Dark-theme ",
+      caption: "Custom react-hook code for managing the Dark-theme",
     },
   },
   lessonsLearned: {

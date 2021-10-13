@@ -110,11 +110,3 @@ export const LinkRowContainer = styled(FlexRowContainer)`
     color: ${({ theme }) => theme.primary_text_color};
   }
 `;
-
-// export const CardWrapper = styled.div`
-//   display: none;
-//   flex-direction: row;
-//   @media (max-width: 768px) {
-//     flex-direction: column;
-//   }
-// `;

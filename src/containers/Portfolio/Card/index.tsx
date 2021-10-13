@@ -11,8 +11,8 @@ type Props = {
     altRepo: string;
     liveDemoUrl?: string;
     figmaURL?: string;
-    shortDesc: string;
     readMoreURL: string;
+    shortDesc: string;
   };
 };
 
@@ -33,7 +33,7 @@ const Card = ({ data }: Props) => {
               rel="noreferrer"
               title={`Visit ${data.title} Repository on Github`}
             >
-              <i className="fab fa-figma"></i>
+              <i className="fab fa-github" />
             </a>
           )}
           {data.liveDemoUrl && (

@@ -1,17 +1,17 @@
 import choreTrackerDark from "assets/images/choreTracker/choreTrackerDark.png";
 import choreTrackerLight from "assets/images/choreTracker/choreTrackerLight.png";
 import resume from "assets/images/resume/resume.png";
-
 import dashboard from "assets/images/financeTracker/Dashboard.png";
 
 export const porfolioInfo = [
   {
     title: "Chore Tracker",
+    urlRepo: "https://github.com/jose-506/ChoreTracker",
     pictureRepo: choreTrackerDark,
     pictureRepo2: choreTrackerLight,
-    figcaption: "Chore Tracker logo in dark and light mode.",
+    figcaption: "Chore Tracker logo in Dark and Light mode.",
     altRepo: "Chore Tracker repository",
-    liveDemoUrl: "#",
+    liveDemoUrl: "http://ec2-54-226-183-237.compute-1.amazonaws.com",
     readMoreURL: "/portfolio/ct",
     shortDesc:
       "The goal of this personal project is to measure the time it takes to finish any kind of chore . I had the necessity to know how much time it takes me to finish the plethora of chores around my house. Since covid restriction took effect around 2019, I spend more of my time at home...",
@@ -29,9 +29,11 @@ export const porfolioInfo = [
   },
   {
     title: "Resume",
+    urlRepo: "https://github.com/jose-506/resume",
     pictureRepo: resume,
-    figcaption: "Resume Greeting.",
+    figcaption: "Resume - Greeting Section.",
     altRepo: "Resume repository",
+    liveDemoUrl: "https://www.josetrejos.com/",
     readMoreURL: "/portfolio/re",
     shortDesc:
       "This web site born as the necessity to show and explain the goal of my personal projects as well as a tool to help me find a new job. I wanted to show more than the source code, I want to tell you a story of what does it do, how and why. Tell you what I learned and how I overcome the many obstacles I faced. ",

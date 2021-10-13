@@ -40,10 +40,18 @@ export const choreTrackerInfo = {
       title: "MongoDB, Express, React, Node",
       caption: (
         <>
-          <a href="https://commons.wikimedia.org/wiki/File:MERN-logo.png">
+          <a
+            href="https://commons.wikimedia.org/wiki/File:MERN-logo.png"
+            target="_blank"
+            rel="noreferrer"
+          >
             Wikimedia Commons -
           </a>
-          <a href="https://creativecommons.org/licenses/by-sa/4.0">
+          <a
+            href="https://creativecommons.org/licenses/by-sa/4.0"
+            target="_blank"
+            rel="noreferrer"
+          >
             - License CC BY-SA 4.0
           </a>
         </>

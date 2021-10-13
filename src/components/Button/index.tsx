@@ -13,7 +13,7 @@ type Props = {
 export default function Button({ onClick, tooltiptext, value }: Props) {
   return (
     <StyledBtn type="button" onClick={onClick} title={tooltiptext}>
-      {value}
+      <p>{value}</p>
     </StyledBtn>
   );
 }
