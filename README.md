@@ -16,7 +16,7 @@ This is my personal resume that I made to show my portfolio projects.
 
 ## Web Stack
 
-I build it using React, Typescript and Styled components. Also, I deploy it using AWS Amplify.
+I built this website using React, Typescript, Styled-components and It was deployed on AWS.
 
 ## License
 
