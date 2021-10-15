@@ -8,11 +8,11 @@ This is my personal resume that I made to show my portfolio projects.
 
 **Home Section in dark mode**
 
-![Main section](LINK)
+![Main section](https://raw.githubusercontent.com/jose-506/resume/main/src/assets/images/resume/homeDarkMode.png)
 
 **Portfolio Section in light mode**
 
-![Chart Section](LINK)
+![Chart Section](https://raw.githubusercontent.com/jose-506/resume/main/src/assets/images/resume/portfolioInLightMode.PNG)
 
 ## Web Stack
 
