@@ -1,7 +1,7 @@
-import Me from "assets/images/me.jpg";
+import josePicture from "assets/images/me.png";
 
 export const contactInfo = {
-  userPicture: Me,
+  userPicture: josePicture,
   fName: "Jose Mauricio",
   lName: "Trejos Castro",
   position: "Software Developer",
