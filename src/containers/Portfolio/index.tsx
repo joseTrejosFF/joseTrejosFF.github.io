@@ -9,8 +9,7 @@ const Portfolio = (): JSX.Element => {
       <h2 className="title">What I've been working on</h2>
       <p>
         I like to keep up with new technologies and always have a project in
-        progress. Take a look at some of my feature personal projects, and
-        companies I've working on.
+        progress. Take a look at some of my feature personal projects.
       </p>
       {porfolioInfo.map((project) => (
         <Card key={uuidv4()} data={project} />

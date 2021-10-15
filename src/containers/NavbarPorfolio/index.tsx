@@ -8,7 +8,7 @@ const NavbarPortfoliio = ({ gui }: Props) => {
   const links = [
     ["ct", "Chore Tracker"],
     ["ft", "Finance Tracker"],
-    ["re", "Resume"],
+    ["re", "Web Resume"],
   ];
 
   return <Header links={links} gui={gui} />;

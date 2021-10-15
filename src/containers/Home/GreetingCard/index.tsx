@@ -5,7 +5,7 @@ const GreetingCard = (): JSX.Element => {
     <GreetingCardContainer>
       <h1 className="title">Hi there!</h1>
       <p>
-        I am Jose, a software developer that enjoys solving problems using code{" "}
+        I'm Jose, a software developer that enjoys solving problems using code{" "}
         <span className="emoji">&#x1f4bb;</span>
       </p>
 
@@ -15,7 +15,7 @@ const GreetingCard = (): JSX.Element => {
       <ul className="ul-quick-Start">
         <li>
           <p>
-            I am a cat person <span className="emoji">&#x1F408;</span>
+            I'm a cat person <span className="emoji">&#x1F408;</span>
           </p>
         </li>
         <li>

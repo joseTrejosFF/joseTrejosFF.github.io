@@ -37,7 +37,7 @@ export const jobExpInfo = [
       position: "Technical Support",
       description: [
         "Work via remote desktop with customers to fix or implement new software and operating system configurations.",
-        "Help coworkers in situations where they got stuck during the troubleshooting processs.",
+        "Help coworkers in situations where they got stuck during the troubleshooting process.",
       ],
     },
   },

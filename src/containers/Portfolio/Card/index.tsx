@@ -31,7 +31,7 @@ const Card = ({ data }: Props) => {
               href={data.urlRepo}
               target="_blank"
               rel="noreferrer"
-              title={`Visit ${data.title} Repository on Github`}
+              title={`Go to ${data.title} Repository on Github`}
             >
               <i className="fab fa-github" />
             </a>
@@ -41,9 +41,9 @@ const Card = ({ data }: Props) => {
               href={data.liveDemoUrl}
               target="_blank"
               rel="noreferrer"
-              title={`Visit ${data.title} Live Demo`}
+              title={`Go to ${data.title} Live Demo`}
             >
-              <i className="fas fa-desktop" />
+              <p>Live Demo</p>
             </a>
           )}
           {data.figmaURL && (
@@ -51,7 +51,7 @@ const Card = ({ data }: Props) => {
               href={data.figmaURL}
               target="_blank"
               rel="noreferrer"
-              title={`Visit ${data.title} Figma Project`}
+              title={`Go to ${data.title} Figma Project`}
             >
               <i className="fab fa-figma" />
             </a>

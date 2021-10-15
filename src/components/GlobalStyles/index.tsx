@@ -2,7 +2,7 @@ import styled, { createGlobalStyle } from "styled-components";
 import { Title, FontWeight } from "utils/fonts";
 
 const { T1, T2, T3, T4, T5, T6 } = Title;
-const { BLACK, BOLD, MEDIUM, REGULAR, LIGHT, THIN } = FontWeight;
+const { BOLD, MEDIUM } = FontWeight;
 
 export const GlobalStyles = createGlobalStyle`
 
