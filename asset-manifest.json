@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/portfolio/static/js/main.8ca713ea.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8ca713ea.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.884f1cd6.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.884f1cd6.js.map",
+    "static/js/2.304429fd.chunk.js": "/portfolio/static/js/2.304429fd.chunk.js",
+    "static/js/2.304429fd.chunk.js.map": "/portfolio/static/js/2.304429fd.chunk.js.map",
+    "static/js/3.0962f2d7.chunk.js": "/portfolio/static/js/3.0962f2d7.chunk.js",
+    "static/js/3.0962f2d7.chunk.js.map": "/portfolio/static/js/3.0962f2d7.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/js/2.304429fd.chunk.js.LICENSE.txt": "/portfolio/static/js/2.304429fd.chunk.js.LICENSE.txt",
+    "static/media/ColorScheme.0e329216.png": "/portfolio/static/media/ColorScheme.0e329216.png",
+    "static/media/DBmodel2.b5ee0bc8.png": "/portfolio/static/media/DBmodel2.b5ee0bc8.png",
+    "static/media/Dashboard.a7136e39.png": "/portfolio/static/media/Dashboard.a7136e39.png",
+    "static/media/Postgresql_elephant.e407ebb1.svg": "/portfolio/static/media/Postgresql_elephant.e407ebb1.svg",
+    "static/media/allCardsLight.9ce5f83c.png": "/portfolio/static/media/allCardsLight.9ce5f83c.png",
+    "static/media/darkThemeHook.6af03dce.png": "/portfolio/static/media/darkThemeHook.6af03dce.png",
+    "static/media/me.d822da16.png": "/portfolio/static/media/me.d822da16.png",
+    "static/media/mernLogo.39d4f786.png": "/portfolio/static/media/mernLogo.39d4f786.png",
+    "static/media/mobilehomeDarkModeMenu.7ea76a92.png": "/portfolio/static/media/mobilehomeDarkModeMenu.7ea76a92.png",
+    "static/media/reactIcon.cc18e3dd.svg": "/portfolio/static/media/reactIcon.cc18e3dd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.884f1cd6.js",
+    "static/js/2.304429fd.chunk.js",
+    "static/js/main.8ca713ea.chunk.js"
+  ]
+}
