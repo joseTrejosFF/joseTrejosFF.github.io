@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.8ca713ea.chunk.js",
-    "main.js.map": "/static/js/main.8ca713ea.chunk.js.map",
+    "main.js": "/static/js/main.b645df3f.chunk.js",
+    "main.js.map": "/static/js/main.b645df3f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bca13c4c.js",
     "runtime-main.js.map": "/static/js/runtime-main.bca13c4c.js.map",
     "static/js/2.3ba59fcb.chunk.js": "/static/js/2.3ba59fcb.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/Postgresql_elephant.e407ebb1.svg": "/static/media/Postgresql_elephant.e407ebb1.svg",
     "static/media/allCardsLight.9ce5f83c.png": "/static/media/allCardsLight.9ce5f83c.png",
     "static/media/darkThemeHook.6af03dce.png": "/static/media/darkThemeHook.6af03dce.png",
-    "static/media/me.d822da16.png": "/static/media/me.d822da16.png",
+    "static/media/me.9275c761.jpg": "/static/media/me.9275c761.jpg",
     "static/media/mernLogo.39d4f786.png": "/static/media/mernLogo.39d4f786.png",
     "static/media/mobilehomeDarkModeMenu.7ea76a92.png": "/static/media/mobilehomeDarkModeMenu.7ea76a92.png",
     "static/media/reactIcon.cc18e3dd.svg": "/static/media/reactIcon.cc18e3dd.svg"
@@ -24,6 +24,6 @@
   "entrypoints": [
     "static/js/runtime-main.bca13c4c.js",
     "static/js/2.3ba59fcb.chunk.js",
-    "static/js/main.8ca713ea.chunk.js"
+    "static/js/main.b645df3f.chunk.js"
   ]
 }
