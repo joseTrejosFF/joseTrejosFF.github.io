@@ -1,8 +1,11 @@
 {
-  "name": "resume-react",
+  "name": "portfolio-jose-trejos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joseTrejosFF.github.io",
+  "homepage": "https://josetrejos.com",
+  "engines": {
+    "node": "^16.19.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",

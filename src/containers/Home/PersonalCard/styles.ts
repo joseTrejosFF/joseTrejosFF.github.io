@@ -1,5 +1,5 @@
-import styled from "styled-components";
-import { FlexColContainer, LinkRowContainer } from "components/GlobalStyles";
+import styled from 'styled-components';
+import { FlexColContainer, LinkRowContainer } from 'components/GlobalStyles';
 
 export const PersonalCardContainer = styled(FlexColContainer)`
   .personal-pic > img {
@@ -20,6 +20,7 @@ export const PersonalCardContainer = styled(FlexColContainer)`
 
   .phone,
   .email {
+    padding-top: 0.5rem;
     padding-bottom: 1rem;
   }
 

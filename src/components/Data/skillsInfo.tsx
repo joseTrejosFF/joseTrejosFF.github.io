@@ -1,5 +1,5 @@
 export const skillsInfo = {
-  title: 'Programming Languages and Frameworks',
+  title: 'Skills',
   intro: 'Frequently used tools and frameworks:',
   tools: [
     'JavaScript',

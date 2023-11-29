@@ -1,4 +1,4 @@
-import Header from "components/Header";
+import Header from 'components/Header';
 
 type Props = {
   gui: { theme: string; themeToggle: () => void };
@@ -6,9 +6,9 @@ type Props = {
 
 const NavbarPortfoliio = ({ gui }: Props) => {
   const links = [
-    ["ct", "Chore Tracker"],
-    ["ft", "Finance Tracker"],
-    ["re", "Web Resume"],
+    ['ct', 'Chore Tracker'],
+    ['ft', 'Finance Tracker'],
+    ['re', 'Portfolio'],
   ];
 
   return <Header links={links} gui={gui} />;

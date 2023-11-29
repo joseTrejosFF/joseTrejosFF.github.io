@@ -1,6 +1,6 @@
 import choreTrackerDark from 'assets/images/choreTracker/choreTrackerDark.png';
 import choreTrackerLight from 'assets/images/choreTracker/choreTrackerLight.png';
-import resume from 'assets/images/resume/resume.png';
+import portfolio from 'assets/images/portfolio/portfolio.png';
 import dashboard from 'assets/images/financeTracker/Dashboard.png';
 
 export const porfolioInfo = [
@@ -13,7 +13,7 @@ export const porfolioInfo = [
     altRepo: 'Chore Tracker repository',
     readMoreURL: '/portfolio/ct',
     shortDesc:
-      'The goal of this personal project is to measure the time it takes to finish any kind of chore. I had the necessity to know how much time it takes me to finish the plethora of chores around my house. Since covid restriction took effect around 2019, I spend more of my time at home... ',
+      'The goal of this personal project is to measure the time it takes to complete various chores. I felt the need to understand how much time I spend on the myriad of tasks around my house, especially since COVID restrictions came into effect around 2019, resulting in more time spent at home...',
   },
   {
     title: 'Finance Tracker',
@@ -24,16 +24,16 @@ export const porfolioInfo = [
       'https://www.figma.com/file/WLWJPgLMB6GknlPPQbmja1/FT?node-id=0%3A1',
     readMoreURL: '/portfolio/ft',
     shortDesc:
-      'This is a work-in-progress but I could tell you. This will be one of the most ambitious personal projects that I ever plan to do. The main goal is to keep track of my income, expenses, investments, and forecast. All this data will be presented on charts... ',
+      "While this project is still a work in progress, I'm excited to share my plans for what promises to be one of my most ambitious personal projects. The primary goal is to meticulously track my income, expenses, investments, and forecasts, with all this data presented in insightful charts...",
   },
   {
-    title: 'Resume',
+    title: 'Portfolio',
     urlRepo: 'https://github.com/joseTrejosFF/joseTrejosFF.github.io',
-    pictureRepo: resume,
-    figcaption: 'Resume - Greeting Section.',
-    altRepo: 'Resume repository',
+    pictureRepo: portfolio,
+    figcaption: 'Portfolio - Greeting Section.',
+    altRepo: 'Portfolio repository',
     readMoreURL: '/portfolio/re',
     shortDesc:
-      'This web site was born as the necessity to show and explain the goal of my personal projects. I want to show more than the source code, I want to tell you a story of what it does, how and why. As well as what I learned and how I overcame the many obstacles I faced... ',
+      'I enjoy not only showcasing and explaining my personal projects but also weaving a narrative beyond the source code. I want to share the story of what the project does, how and why it came to be, along with the lessons learned and the strategies I employed to overcome various challenges...',
   },
 ];

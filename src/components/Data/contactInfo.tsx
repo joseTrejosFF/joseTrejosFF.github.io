@@ -6,7 +6,6 @@ export const contactInfo = {
   lName: 'Trejos Castro',
   position: 'Software Developer',
   location: 'Heredia, Costa Rica',
-  phone: '+506 8986 8660',
   email: 'jtrejos506@gmail.com',
   github: 'https://github.com/joseTrejosFF',
   githubIcon: <i className='fab fa-github' />,

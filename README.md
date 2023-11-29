@@ -1,22 +1,12 @@
-# Resume repository
+# Porfolio repository
 
-This is my personal resume that I made to show my portfolio projects.
+Personal portfolio.
 
-**Live Website:** [CLICK HERE](https://www.josetrejos.com/)
-
-## Screenshots
-
-**Home Section in dark mode**
-
-![Main section](https://raw.githubusercontent.com/jose-506/resume/main/src/assets/images/resume/homeDarkMode.png)
-
-**Portfolio Section in light mode**
-
-![Chart Section](https://raw.githubusercontent.com/jose-506/resume/main/src/assets/images/resume/portfolioInLightMode.PNG)
+[Live website](https://www.josetrejos.com)
 
 ## Web Stack
 
-I built this website using React, Typescript, Styled-components and It was deployed on AWS.
+Build with Reactjs, Typescript and Styled-components.
 
 ## License
 

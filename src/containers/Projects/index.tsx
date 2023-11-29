@@ -1,8 +1,8 @@
-import Card from "./Card";
-import { Switch, Route, useRouteMatch } from "react-router-dom";
-import { choreTrackerInfo } from "components/Data/projectChoreTrackerInfo";
-import { financeTrackerInfo } from "components/Data/projectFinanceTrackerInfo";
-import { webResumeInfo } from "components/Data/projectWebResumeInfo";
+import Card from './Card';
+import { Switch, Route, useRouteMatch } from 'react-router-dom';
+import { choreTrackerInfo } from 'components/Data/projectChoreTrackerInfo';
+import { financeTrackerInfo } from 'components/Data/projectFinanceTrackerInfo';
+import { porfolioInfo } from 'components/Data/projectPortfolioInfo';
 
 const Projects = () => {
   let { path } = useRouteMatch();
@@ -23,7 +23,7 @@ const Projects = () => {
         </Route>
 
         <Route exact path={`${path}/re`}>
-          <Card data={webResumeInfo} />
+          <Card data={porfolioInfo} />
         </Route>
       </Switch>
     </>
