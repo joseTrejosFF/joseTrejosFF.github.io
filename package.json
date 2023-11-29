@@ -2,7 +2,7 @@
   "name": "resume-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://joseTrejosFF.github.io/portfolio",
+  "homepage": "https://joseTrejosFF.github.io/portfolio",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
