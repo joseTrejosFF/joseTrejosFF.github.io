@@ -4,7 +4,7 @@ export const contactInfo = {
   userPicture: josePicture,
   fName: 'Jose Mauricio',
   lName: 'Trejos Castro',
-  position: 'Software Developer',
+  position: 'Software Engineer',
   location: 'Heredia, Costa Rica',
   email: 'jtrejos506@gmail.com',
   github: 'https://github.com/joseTrejosFF',
